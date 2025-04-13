@@ -1,6 +1,6 @@
-2025-04-13 13:10:17.399196 - Received CBT.V508.FILE1002.PDS from FILE1002.XMI 
-2025-04-13 13:10:17.399933 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1002.PDS, moved to PDS/$$$#DATE
-2025-04-13 13:10:17.400009 - Found @FIL1002.txt (text/plain) in CBT.V508.FILE1002.PDS, moved to PDS/@FIL1002
-2025-04-13 13:10:17.401369 - Found SMPE001.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE001.pdf
-2025-04-13 13:10:17.403616 - Found SMPE002.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE002.pdf
-2025-04-13 13:10:17.404686 - Found SMPE003.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE003.pdf
+2025-04-13 16:08:22.934534 - Received CBT.V508.FILE1002.PDS from FILE1002.XMI 
+2025-04-13 16:08:22.935413 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1002.PDS, moved to PDS/$$$#DATE
+2025-04-13 16:08:22.935474 - Found @FIL1002.txt (text/plain) in CBT.V508.FILE1002.PDS, moved to PDS/@FIL1002
+2025-04-13 16:08:22.937960 - Found SMPE001.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE001.pdf
+2025-04-13 16:08:22.941729 - Found SMPE002.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE002.pdf
+2025-04-13 16:08:22.943604 - Found SMPE003.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE003.pdf
